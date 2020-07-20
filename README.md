@@ -1,65 +1,42 @@
 <img src="https://github.com/alfbach/OCP_Arch/blob/master/logo.png" width="450" height="120">
 
 
-# Red Hat OpenShift 4.x Infrastructure Workshop
+# Red Hat OpenShift 4.x 
+Infrastructure Workshop for Customers
 ## remote version
 
-June 2020
+July 2020
 
 ## Agenda:
 
 
 ### Day 1:
 
-9:00		Welcome and Intro
-
-		https://www.menti.com/wq7y7j1wjd
+14:00		Welcome and Intro
 		
+14:15		Red Hat OpenShift the platform for big ideas
 
-9:15		OpenShift Architecture Part 1
+15:00		BREAK
 
-				Overview / Installation
+15:05		OpenShift Architecture 
 
-11:00		BREAK
-
-11:15		OpenShift Architecture Part 2
-
-				Configuration Networking Storage
-
-13:00		BREAK
-
-14:00		CoreOS & CRI-O
-
-15:00		Operator Framework
-
-16:00		HandsOn Lab - Learn OpenShift 
-
-18:00		Open End		
-
-
+16:45		Introduction to HandsOn Lab
+		(learn.openshift.com)
+		
 ### Day 2:
 
-9:00		Introduction Day2
+14:00		OpenShift Installation
 
-9:15		OpenShift Advanced Features
+15:00		Break
 
-				Container Native Virtualisation
+15:10		Operator Framework
 
-				Modern Registry Management (QUAY)				
+15:40		Advanced Cluster Manager 
 
-10:45		BREAK
+16:00		Break
 
-11:00		Cluster Manager
+16:10		RoadMap
 
-11:30		Serverless
+17:00		End
 
-12:00		OpenShift RoadMap			
-
-12:45		Q&A and Feedback
-
-13:00		BREAK
-
-14:00		HandsOn Lab 
-
-17:00		End of day two
 
